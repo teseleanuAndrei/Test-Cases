@@ -40,3 +40,16 @@ User should be able to log in and have the data saved for the next log in
 User: Andrei
 Pass: ABC1
 
+
+--------------
+
+
+**Description**
+Check if a search bar autocompletes what you type
+
+**Steps to reproduce**
+1. Go to www.website.com/search
+2. Start Typing a product name on the search bar
+
+**Expected results**
+The search must autocomplete what you type in the search bar
